@@ -1,0 +1,42 @@
+/* .mountainRoad li {
+    list-style: none;
+    margin: 0 5px;
+}
+
+.mountainRoad li a {
+    text-decoration: none;
+    color: black;
+}
+
+.mountainRoad {
+    display: flex;
+    margin: 0;
+    padding: 0;
+} */
+
+.navbar {
+    background-color: #F18A9B;
+}
+
+.navbar-toggler,
+.nav-pills .nav-link.active {
+    background-color: #fff;
+}
+
+.road {
+    background-color: #89CFF3;
+}
+
+.road:hover {
+    background-color: #4180a0;
+}
+
+.mountain {
+    background-color: #31304D;
+}
+
+.mountain:hover {
+    background-color: #242342;
+}
+
+
