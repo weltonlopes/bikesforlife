@@ -21,6 +21,7 @@
 .navbar-toggler,
 .nav-pills .nav-link.active {
     background-color: #fff;
+    color: #F18A9B;
 }
 
 .road {
@@ -38,5 +39,20 @@
 .mountain:hover {
     background-color: #242342;
 }
+
+#sobre,
+#rotas {
+    background-color: #e48b9a93;
+}
+
+.tab-content img {
+    border-radius: 50%;
+}
+
+.gray-scale {
+    filter: grayscale(1);
+}
+
+
 
 
